@@ -36,7 +36,7 @@ Ultimate Texas Hold'em is played against the dealer:
 - Players make equal Ante and Blind bets before the cards are dealt
 - Players receive two hole cards and combine them with five community cards to make their best five-card hand
 - Betting rounds proceed as follows:
-  - Pre-flop: Players can bet 3x or 4x their Ante before seeing community cards
+  - Pre-flop: Players can bet 4x their Ante before seeing community cards
   - Flop: Players can bet 2x their Ante after seeing three community cards
   - River: Players can bet 1x their Ante after all community cards are revealed
 - Best five-card poker hand wins
