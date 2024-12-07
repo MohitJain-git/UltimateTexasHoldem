@@ -1,7 +1,6 @@
 # Ultimate Texas Hold'em
 
-A Python implementation of the popular casino poker variant Ultimate Texas Hold'em with a graphical user interface built using Tkinter.
-
+A Python-based implementation of Ultimate Texas Hold'em, a popular casino poker variant, featuring an optimal strategy derived using Pyro and a user-friendly graphical interface developed with Tkinter.
 ## Features
 
 - Interactive GUI built with Tkinter
@@ -29,7 +28,7 @@ python ui.py
 
 ## Output
 
-After you exit the game, two text files will be generated one for the bot and the other is the players hands, and for each of them, there will be a graph generated showing the performance wrt to each hand played
+Upon exiting the game, two text files will be generated: one detailing the bot's hands and the other documenting the player's hands. Additionally, a graph will be created for each, illustrating performance trends with respect to each hand played.
 
 ## Game Rules
 
@@ -45,8 +44,8 @@ Ultimate Texas Hold'em is played against the dealer:
 **Optional Bets**
 - Trips Bet: Players win if their final five-card hand is three of a kind or higher
 
-**Payouts**
 ![image](https://github.com/user-attachments/assets/23642d3e-f9bd-4ee6-aad0-5ab49cc5ad02)
+
 
 **Hand Rankings** (highest to lowest):
 - Royal Flush
