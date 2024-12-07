@@ -27,6 +27,10 @@ To start the game, run:
 python ui.py
 ```
 
+## Output
+
+After you exit the game, two text files will be generated one for the bot and the other is the players hands, and for each of them, there will be a graph generated showing the performance wrt to each hand played
+
 ## Game Rules
 
 Ultimate Texas Hold'em is played against the dealer:
@@ -40,6 +44,9 @@ Ultimate Texas Hold'em is played against the dealer:
 
 **Optional Bets**
 - Trips Bet: Players win if their final five-card hand is three of a kind or higher
+
+**Payouts**
+![image](https://github.com/user-attachments/assets/23642d3e-f9bd-4ee6-aad0-5ab49cc5ad02)
 
 **Hand Rankings** (highest to lowest):
 - Royal Flush
